@@ -1,0 +1,5 @@
+[
+  "function getTotal() external view returns (uint256)",
+  "function setNumber(uint256 _num) external returns (bool)",
+  "function getNumber(address _user) external view returns (uint256)"
+]
