@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comps-rebalancer/static/css/main.f30d41eb.css",
+    "main.js": "/comps-rebalancer/static/js/main.696f513f.js",
+    "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
+    "index.html": "/comps-rebalancer/index.html",
+    "main.f30d41eb.css.map": "/comps-rebalancer/static/css/main.f30d41eb.css.map",
+    "main.696f513f.js.map": "/comps-rebalancer/static/js/main.696f513f.js.map",
+    "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30d41eb.css",
+    "static/js/main.696f513f.js"
+  ]
+}
