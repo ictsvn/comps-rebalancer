@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a69a1e49.css",
-    "main.js": "/static/js/main.d6a3f31b.js",
-    "static/js/787.59e5f7e8.chunk.js": "/static/js/787.59e5f7e8.chunk.js",
-    "index.html": "/index.html",
-    "main.a69a1e49.css.map": "/static/css/main.a69a1e49.css.map",
-    "main.d6a3f31b.js.map": "/static/js/main.d6a3f31b.js.map",
-    "787.59e5f7e8.chunk.js.map": "/static/js/787.59e5f7e8.chunk.js.map"
+    "main.css": "/comps-rebalancer/static/css/main.1d8d3bcb.css",
+    "main.js": "/comps-rebalancer/static/js/main.e04137ab.js",
+    "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
+    "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
+    "static/media/NES-TTF.ttf": "/comps-rebalancer/static/media/NES-TTF.7b8394c087ae5e08a7f5.ttf",
+    "static/media/run.gif": "/comps-rebalancer/static/media/run.154226ec9cf0f3789a8d.gif",
+    "static/media/discord.png": "/comps-rebalancer/static/media/discord.55960cba794f3c2ba6fc.png",
+    "static/media/twitter.png": "/comps-rebalancer/static/media/twitter.894988327f8d68209e91.png",
+    "index.html": "/comps-rebalancer/index.html",
+    "main.1d8d3bcb.css.map": "/comps-rebalancer/static/css/main.1d8d3bcb.css.map",
+    "main.e04137ab.js.map": "/comps-rebalancer/static/js/main.e04137ab.js.map",
+    "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a69a1e49.css",
-    "static/js/main.d6a3f31b.js"
+    "static/css/main.1d8d3bcb.css",
+    "static/js/main.e04137ab.js"
   ]
 }
