@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/comps-rebalancer/static/css/main.07cdb94a.css",
-    "main.js": "/comps-rebalancer/static/js/main.4c03125d.js",
+    "main.css": "/comps-rebalancer/static/css/main.4135347b.css",
+    "main.js": "/comps-rebalancer/static/js/main.a090b4f6.js",
     "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
     "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
-    "static/media/NES-TTF.ttf": "/comps-rebalancer/static/media/NES-TTF.7b8394c087ae5e08a7f5.ttf",
+    "static/media/logo_mobile.svg": "/comps-rebalancer/static/media/logo_mobile.3f403d73b220cf12234b3b3c6772a81d.svg",
+    "static/media/PressStart2P-Regular.ttf": "/comps-rebalancer/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/mega_rock.png": "/comps-rebalancer/static/media/mega_rock.057340c614ba3fc0f9e2.png",
     "static/media/logout.png": "/comps-rebalancer/static/media/logout.e3905b7be76f7634df2d.png",
+    "static/media/green_land.png": "/comps-rebalancer/static/media/green_land.b241eff571f1e6d87e85.png",
     "static/media/run.gif": "/comps-rebalancer/static/media/run.154226ec9cf0f3789a8d.gif",
     "static/media/discord.png": "/comps-rebalancer/static/media/discord.55960cba794f3c2ba6fc.png",
+    "static/media/L.png": "/comps-rebalancer/static/media/L.6adebeb19e1169e6378c.png",
     "static/media/twitter.png": "/comps-rebalancer/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/zzz.png": "/comps-rebalancer/static/media/zzz.32832e67e94309084aba.png",
+    "static/media/Five.png": "/comps-rebalancer/static/media/Five.806a64b368440083a926.png",
+    "static/media/black_bg.png": "/comps-rebalancer/static/media/black_bg.9e4ccc7f781c4e73fbe8.png",
     "index.html": "/comps-rebalancer/index.html",
-    "main.07cdb94a.css.map": "/comps-rebalancer/static/css/main.07cdb94a.css.map",
-    "main.4c03125d.js.map": "/comps-rebalancer/static/js/main.4c03125d.js.map",
+    "static/media/bg.svg": "/comps-rebalancer/static/media/bg.e2fb3170f5cf67a5ba6b.svg",
+    "main.4135347b.css.map": "/comps-rebalancer/static/css/main.4135347b.css.map",
+    "main.a090b4f6.js.map": "/comps-rebalancer/static/js/main.a090b4f6.js.map",
     "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07cdb94a.css",
-    "static/js/main.4c03125d.js"
+    "static/css/main.4135347b.css",
+    "static/js/main.a090b4f6.js"
   ]
 }
