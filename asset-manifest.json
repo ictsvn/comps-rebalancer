@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comps-rebalancer/static/css/main.f6ec8012.css",
-    "main.js": "/comps-rebalancer/static/js/main.5b4531ee.js",
+    "main.css": "/comps-rebalancer/static/css/main.b5c04dff.css",
+    "main.js": "/comps-rebalancer/static/js/main.5fda8fee.js",
     "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
     "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
     "static/media/logo_mobile.svg": "/comps-rebalancer/static/media/logo_mobile.3f403d73b220cf12234b3b3c6772a81d.svg",
@@ -10,17 +10,19 @@
     "static/media/logout.png": "/comps-rebalancer/static/media/logout.e3905b7be76f7634df2d.png",
     "static/media/green_land.png": "/comps-rebalancer/static/media/green_land.b241eff571f1e6d87e85.png",
     "static/media/run.gif": "/comps-rebalancer/static/media/run.154226ec9cf0f3789a8d.gif",
+    "static/media/discord.png": "/comps-rebalancer/static/media/discord.55960cba794f3c2ba6fc.png",
     "static/media/L.png": "/comps-rebalancer/static/media/L.6adebeb19e1169e6378c.png",
     "static/media/zzz.png": "/comps-rebalancer/static/media/zzz.32832e67e94309084aba.png",
     "static/media/Five.png": "/comps-rebalancer/static/media/Five.806a64b368440083a926.png",
     "static/media/bg.svg": "/comps-rebalancer/static/media/bg.e2fb3170f5cf67a5ba6b.svg",
+    "static/media/open_sea.svg": "/comps-rebalancer/static/media/open_sea.9e972b9dedca25adc714f92edcae0b6f.svg",
     "index.html": "/comps-rebalancer/index.html",
-    "main.f6ec8012.css.map": "/comps-rebalancer/static/css/main.f6ec8012.css.map",
-    "main.5b4531ee.js.map": "/comps-rebalancer/static/js/main.5b4531ee.js.map",
+    "main.b5c04dff.css.map": "/comps-rebalancer/static/css/main.b5c04dff.css.map",
+    "main.5fda8fee.js.map": "/comps-rebalancer/static/js/main.5fda8fee.js.map",
     "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ec8012.css",
-    "static/js/main.5b4531ee.js"
+    "static/css/main.b5c04dff.css",
+    "static/js/main.5fda8fee.js"
   ]
 }
