@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/comps-rebalancer/static/css/main.b5c04dff.css",
-    "main.js": "/comps-rebalancer/static/js/main.5fda8fee.js",
+    "main.js": "/comps-rebalancer/static/js/main.1a2f4474.js",
     "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
     "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
     "static/media/logo_mobile.svg": "/comps-rebalancer/static/media/logo_mobile.3f403d73b220cf12234b3b3c6772a81d.svg",
@@ -18,11 +18,11 @@
     "static/media/open_sea.svg": "/comps-rebalancer/static/media/open_sea.9e972b9dedca25adc714f92edcae0b6f.svg",
     "index.html": "/comps-rebalancer/index.html",
     "main.b5c04dff.css.map": "/comps-rebalancer/static/css/main.b5c04dff.css.map",
-    "main.5fda8fee.js.map": "/comps-rebalancer/static/js/main.5fda8fee.js.map",
+    "main.1a2f4474.js.map": "/comps-rebalancer/static/js/main.1a2f4474.js.map",
     "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5c04dff.css",
-    "static/js/main.5fda8fee.js"
+    "static/js/main.1a2f4474.js"
   ]
 }
