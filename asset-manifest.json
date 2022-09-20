@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comps-rebalancer/static/css/main.9666ce22.css",
-    "main.js": "/comps-rebalancer/static/js/main.8dacdc04.js",
+    "main.css": "/comps-rebalancer/static/css/main.c0624a34.css",
+    "main.js": "/comps-rebalancer/static/js/main.d75f1bdc.js",
     "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
     "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
     "static/media/PressStart2P-Regular.ttf": "/comps-rebalancer/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
@@ -16,12 +16,12 @@
     "static/media/bg.svg": "/comps-rebalancer/static/media/bg.e2fb3170f5cf67a5ba6b.svg",
     "static/media/bg-center.svg": "/comps-rebalancer/static/media/bg-center.794dcabb61e60d746e2c.svg",
     "index.html": "/comps-rebalancer/index.html",
-    "main.9666ce22.css.map": "/comps-rebalancer/static/css/main.9666ce22.css.map",
-    "main.8dacdc04.js.map": "/comps-rebalancer/static/js/main.8dacdc04.js.map",
+    "main.c0624a34.css.map": "/comps-rebalancer/static/css/main.c0624a34.css.map",
+    "main.d75f1bdc.js.map": "/comps-rebalancer/static/js/main.d75f1bdc.js.map",
     "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9666ce22.css",
-    "static/js/main.8dacdc04.js"
+    "static/css/main.c0624a34.css",
+    "static/js/main.d75f1bdc.js"
   ]
 }
