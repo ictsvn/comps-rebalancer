@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/comps-rebalancer/static/css/main.157b7429.css",
-    "main.js": "/comps-rebalancer/static/js/main.5a7db023.js",
+    "main.js": "/comps-rebalancer/static/js/main.46195ec7.js",
     "static/js/787.59e5f7e8.chunk.js": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js",
     "static/media/PixelMplus12-Regular.ttf": "/comps-rebalancer/static/media/PixelMplus12-Regular.35b3b952cc971da434eb.ttf",
     "static/media/PressStart2P-Regular.ttf": "/comps-rebalancer/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
@@ -17,11 +17,11 @@
     "static/media/bg-center.svg": "/comps-rebalancer/static/media/bg-center.794dcabb61e60d746e2c.svg",
     "index.html": "/comps-rebalancer/index.html",
     "main.157b7429.css.map": "/comps-rebalancer/static/css/main.157b7429.css.map",
-    "main.5a7db023.js.map": "/comps-rebalancer/static/js/main.5a7db023.js.map",
+    "main.46195ec7.js.map": "/comps-rebalancer/static/js/main.46195ec7.js.map",
     "787.59e5f7e8.chunk.js.map": "/comps-rebalancer/static/js/787.59e5f7e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.157b7429.css",
-    "static/js/main.5a7db023.js"
+    "static/js/main.46195ec7.js"
   ]
 }
